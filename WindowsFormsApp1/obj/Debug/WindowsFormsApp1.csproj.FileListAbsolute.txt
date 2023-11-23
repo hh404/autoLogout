@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EmilyCountDown.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EmilyCountDown.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EmilyCountDown.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\EmilyCountDown.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\EmilyCountDown.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
